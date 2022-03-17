@@ -6,7 +6,7 @@
   <img height="60" src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <h1>Mandatory Skills of Colabrative working</h1>
 
-<span>This course is created as on <a href=#><b>Mar 3</b></a>
+<span>This course is created as on <a href=#><b>Mar 5</b></a>
 </span>
 
 <!-- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eternals-school/C100) -->
